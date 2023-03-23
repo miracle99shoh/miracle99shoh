@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shokir! <br/><a href="https://github.com/miracle99shoh">Data Analyst</a>, <a href="https://www.linkedin.com/in/shokirjon-otamirzaev/">Financial Analyst</a></h1>
+<h1>Hi, I'm Shokirjon! <br/><a href="https://github.com/miracle99shoh">Data Analyst</a>, <a href="https://www.linkedin.com/in/shokirjon-otamirzaev/">Financial Analyst</a></h1>
 
 <h2>👨‍💻 Analytical Projects:</h2>
 
