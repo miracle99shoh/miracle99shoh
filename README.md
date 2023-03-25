@@ -1,5 +1,10 @@
 <h1>Hi, I'm Shokirjon! <br/><a href="https://github.com/miracle99shoh">Data Analyst</a>, <a href="https://www.linkedin.com/in/shokirjon-otamirzaev/">Financial Analyst</a></h1>
 
+<h2>👨‍Professional summary:</h2>
+Versatile individual with experience collecting, transforming and organizing data for analysis to help make informed decisions. Excellent proficiency and understanding of platforms for effective data analysis, including SQL, spreadsheets/Excel, Tableau and R/RStudio. 
+Strong communication, organizational, and analytical skills. 
+Recently completed the "Google Data Analytics" Certificate- a rigorous, hands-on program that covers the entire scope of the data analysis process.
+Hoping to help people to make informed decisions by making sense out of raw data, thus creating more value to the life.
 <h2>👨‍💻 Analytical Projects:</h2>
 
 - <b> R Programming/ RStudio projects</b>
@@ -11,9 +16,16 @@
   
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)]
+  - 
+<h2>📺 Education</h2>
+ 
+ - Chonnam National University/ Gwangju, South Korea/ Bachelor of Business Administration/  2018.09- 2022.08
+ 
+ - Google Data Analytics by Google on Coursera.   2022.09- 2023.03 <br/><a href="https://coursera.org/share/9376972811a9ac5f65d1faebf56d8ce6">Certificate</a>
 
 <h2>📺 Certificates</h2>
 
+- [Professional Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/FM4X8FUWMZZZ)
 - [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/QZYUHJY6LGT3)
 - [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/certificate/6XL7UQLP3HSW)
 - [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/TWHPXVHFAHJM)
