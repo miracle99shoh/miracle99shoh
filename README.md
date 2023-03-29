@@ -8,9 +8,9 @@ Hoping to help people to make informed decisions by making sense out of raw data
 <h2>👨‍💻 Analytical Projects:</h2>
 
 - <b> R Programming/ RStudio projects</b>
-  
-  - [Data visualization in RStudio using ggplot2](https://github.com/miracle99shoh/Data_visualization_penguins_diamonds)
   - [Analysis of Bike-sharing company/ Comparison of casual and annual member riders](https://github.com/miracle99shoh/bike_share_analysis)
+  - [Data visualization in RStudio using ggplot2](https://github.com/miracle99shoh/Data_visualization_penguins_diamonds)
+  
 - <b>Structured Query Language/ SQL/ MySQL projects</b>
   - [dytydtdg](https://www.coursera.org/account/accomplishments/certificate/QZYUHJY6LGT3))
 - <b>Tableau</b>
