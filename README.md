@@ -17,7 +17,7 @@ Hoping to help people to make informed decisions by making sense out of raw data
   
 - <b>Python</b>
   - Coming soon...
-  - 
+
 <h2>📺 Education</h2>
  
  - Chonnam National University/ Gwangju, South Korea/ Bachelor of Business Administration/  2018.09- 2022.08
