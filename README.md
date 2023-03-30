@@ -13,8 +13,8 @@ Hoping to help people to make informed decisions by making sense out of raw data
   
 - <b>Structured Query Language/ SQL/ MySQL projects</b>
   - [Warehouse fulfillment analysis](https://github.com/miracle99shoh/mySQL_query_warehouse)
-- <b>Tableau</b>
-  
+- <b>Kaggle/ Kaggle Notebooks</b>
+  - [Cyclistic analysis on Kaggle](https://www.kaggle.com/shokirjonotamirzaev/bike-sharing-company-riders-analysis)
 - <b>Python</b>
   - Coming soon...
 
