@@ -12,11 +12,11 @@ Hoping to help people to make informed decisions by making sense out of raw data
   - [Data visualization in RStudio using ggplot2](https://github.com/miracle99shoh/Data_visualization_penguins_diamonds)
   
 - <b>Structured Query Language/ SQL/ MySQL projects</b>
-  - [dytydtdg](https://www.coursera.org/account/accomplishments/certificate/QZYUHJY6LGT3))
+  - [Warehouse fulfillment analysis](https://github.com/miracle99shoh/mySQL_query_warehouse)
 - <b>Tableau</b>
   
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]
+  - [Coming soon (Datastructures and Algorithms Demo)]
   - 
 <h2>📺 Education</h2>
  
