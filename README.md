@@ -16,7 +16,7 @@ Hoping to help people to make informed decisions by making sense out of raw data
 - <b>Tableau</b>
   
 - <b>Python</b>
-  - [Coming soon (Datastructures and Algorithms Demo)]
+  - Coming soon...
   - 
 <h2>📺 Education</h2>
  
