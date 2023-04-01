@@ -15,8 +15,9 @@ Hoping to help people to make informed decisions by making sense out of raw data
   - [Warehouse fulfillment analysis](https://github.com/miracle99shoh/mySQL_query_warehouse)
 - <b>Kaggle/ Kaggle Notebooks</b>
   - [Cyclistic analysis on Kaggle](https://www.kaggle.com/shokirjonotamirzaev/bike-sharing-company-riders-analysis)
+  - [Dive into ggplot2 function (tutorial)](https://www.kaggle.com/shokirjonotamirzaev/dive-into-ggplot2-function)
   - [Dive into dplyr (tutorial) on Kaggle Notebook](https://www.kaggle.com/code/shokirjonotamirzaev/dive-into-dplyr-tutorial-1)
-  - [Dive into ggplot2 function](https://www.kaggle.com/shokirjonotamirzaev/dive-into-ggplot2-function)
+  
 - <b>Tableau</b>
 
 - <b>Python</b>
