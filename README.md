@@ -9,6 +9,9 @@ Possesses a strong background in financial analysis and a keen eye for detail, e
   - [Analysis of BellaBeat high-tech health product manufacturer](https://github.com/miracle99shoh/BellaBeat_analysis_on_RStudio)
   - [Analysis of Bike-sharing company/ Comparison of casual and annual member riders](https://github.com/miracle99shoh/bike_share_analysis) 
    - [Data visualization in RStudio using ggplot2](https://github.com/miracle99shoh/Data_visualization_penguins_diamonds)
+
+- <b>Python</b>
+  - [Useful Python functions for further use](https://github.com/miracle99shoh/Python_function)
   
 - <b>Structured Query Language/ SQL/ MySQL projects</b>
   - [Warehouse fulfillment analysis](https://github.com/miracle99shoh/mySQL_query_warehouse)
@@ -18,9 +21,6 @@ Possesses a strong background in financial analysis and a keen eye for detail, e
   - [Dive into dplyr (tutorial) on Kaggle Notebook](https://www.kaggle.com/code/shokirjonotamirzaev/dive-into-dplyr-tutorial-1)
   
 - <b>Tableau</b>
-
-- <b>Python</b>
-  - Coming soon...
 
 <h2>📺 Education</h2>
  
