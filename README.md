@@ -11,8 +11,8 @@ Possesses a strong background in financial analysis and a keen eye for detail, e
    - [Data visualization in RStudio using ggplot2](https://github.com/miracle99shoh/Data_visualization_penguins_diamonds)
 
 - <b>Python</b>
+  - [Analysis of listing data for E-commerce Platform](https://github.com/miracle99shoh/Python_function)
   - [Useful Python functions for further use](https://github.com/miracle99shoh/Python_function)
-  
 - <b>Structured Query Language/ SQL/ MySQL projects</b>
   - [Warehouse fulfillment analysis](https://github.com/miracle99shoh/mySQL_query_warehouse)
 - <b>Kaggle/ Kaggle Notebooks</b>
@@ -32,10 +32,9 @@ Possesses a strong background in financial analysis and a keen eye for detail, e
 
 - [Professional Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/FM4X8FUWMZZZ)
 - [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/QZYUHJY6LGT3)
+- [Data Analysis with Python](https://www.udemy.com/certificate/UC-ce1cded1-69fd-4a89-ab4f-4c71770c126e/)
 - [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/certificate/6XL7UQLP3HSW)
 - [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/TWHPXVHFAHJM)
-- [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/V4QULEYGTXE4)
-- [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/2T7QEK9NRX44)
 - [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/V4QULEYGTXE4)
 
 <h2> 🤳 Connect with me:</h2>
