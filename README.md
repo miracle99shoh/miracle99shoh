@@ -11,7 +11,7 @@ Possesses a strong background in financial analysis and a keen eye for detail, e
    - [Data visualization in RStudio using ggplot2](https://github.com/miracle99shoh/Data_visualization_penguins_diamonds)
 
 - <b>Python</b>
-  - [Analysis of listing data for E-commerce Platform](https://github.com/miracle99shoh/Python_function)
+  - [Analysis of listing data for E-commerce Platform](https://github.com/miracle99shoh/Python_Ecommerce_Analysis )
   - [Useful Python functions for further use](https://github.com/miracle99shoh/Python_function)
 - <b>Structured Query Language/ SQL/ MySQL projects</b>
   - [Warehouse fulfillment analysis](https://github.com/miracle99shoh/mySQL_query_warehouse)
