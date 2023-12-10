@@ -12,7 +12,7 @@ Possesses a strong background in financial analysis and a keen eye for detail, e
 
 - <b>Python</b>
   - [Analysis of listing data for E-commerce Platform](https://github.com/miracle99shoh/Python_Ecommerce_Analysis )
-  - [Useful Python functions for further use](https://github.com/miracle99shoh/Python_function)
+  - [Python visualizations with Matplotlib](https://github.com/miracle99shoh/Matplotlib-Viz)
 - <b>Structured Query Language/ SQL/ MySQL projects</b>
   - [Warehouse fulfillment analysis](https://github.com/miracle99shoh/mySQL_query_warehouse)
 - <b>Kaggle/ Kaggle Notebooks</b>
