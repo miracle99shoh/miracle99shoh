@@ -5,6 +5,13 @@ Highly skilled financial data analyst with excellent proficiency and deep unders
 Possesses a strong background in financial analysis and a keen eye for detail, ensuring accurate and reliable interpretation of data. Proven ability to translate data-driven findings into actionable recommendations for optimizing financial performance and supporting strategic decision-making. Committed to continuous learning and staying up-to-date with emerging trends and technologies in the field of financial data analysis.
 <h2>👨‍💻 Analytical Projects:</h2>
 
+- <b>Kaggle/ Kaggle Notebooks</b>
+  - [Seaborn Visualization](https://www.kaggle.com/shokirjonotamirzaev/seaborn-easier-vizs)
+  - [Vizs using Matplotlib on Spotify dataset](https://www.kaggle.com/shokirjonotamirzaev/matplotlib-visualization-spotify)
+  - [Cyclistic analysis on Kaggle](https://www.kaggle.com/shokirjonotamirzaev/bike-sharing-company-riders-analysis)
+  - [Dive into ggplot2 function (tutorial)](https://www.kaggle.com/shokirjonotamirzaev/dive-into-ggplot2-function)
+  - [Dive into dplyr (tutorial) on Kaggle Notebook](https://www.kaggle.com/code/shokirjonotamirzaev/dive-into-dplyr-tutorial-1)
+
 - <b> R Programming/ RStudio projects</b>
   - [Analysis of BellaBeat high-tech health product manufacturer](https://github.com/miracle99shoh/BellaBeat_analysis_on_RStudio)
   - [Analysis of Bike-sharing company/ Comparison of casual and annual member riders](https://github.com/miracle99shoh/bike_share_analysis) 
@@ -15,13 +22,6 @@ Possesses a strong background in financial analysis and a keen eye for detail, e
   - [Python visualizations with Matplotlib](https://github.com/miracle99shoh/Matplotlib-Viz)
   - [Python visualizations with Seaborn](https://github.com/miracle99shoh/Seaborn_Easier_viz)
   
-- <b>Kaggle/ Kaggle Notebooks</b>
-  - [Seaborn Visualization](https://www.kaggle.com/shokirjonotamirzaev/seaborn-easier-vizs)
-  - [Vizs using Matplotlib on Spotify dataset](https://www.kaggle.com/shokirjonotamirzaev/matplotlib-visualization-spotify)
-  - [Cyclistic analysis on Kaggle](https://www.kaggle.com/shokirjonotamirzaev/bike-sharing-company-riders-analysis)
-  - [Dive into ggplot2 function (tutorial)](https://www.kaggle.com/shokirjonotamirzaev/dive-into-ggplot2-function)
-  - [Dive into dplyr (tutorial) on Kaggle Notebook](https://www.kaggle.com/code/shokirjonotamirzaev/dive-into-dplyr-tutorial-1)
-
 - <b>Structured Query Language/ SQL/ MySQL projects</b>
   - [Warehouse fulfillment analysis](https://github.com/miracle99shoh/mySQL_query_warehouse)
   
